@@ -75,7 +75,7 @@ Este repositório centraliza todos os artefatos produzidos ao longo do ciclo de 
 
 | Artefato | Status |
 |---|---|
-| Diagrama de Casos de Uso (30 UCs) | ✅ Concluído |
+| Diagrama de Casos de Uso (27 UCs) | ✅ Concluído |
 | Diagrama de Sequência — por caso de uso | 🔄 Em andamento |
 | Diagrama de Classes de Entidade | 🔄 Em andamento |
 | Diagrama Entidade-Relacionamento (DER) | 🔄 Em andamento |
@@ -106,9 +106,9 @@ Este repositório centraliza todos os artefatos produzidos ao longo do ciclo de 
 
 ## Protótipo
 
-O protótipo de alta fidelidade está disponível no Figma:
+O protótipo de alta fidelidade:
 
-[**Abrir no Figma →**](https://www.figma.com/design/36njOKWxqVbjBS5M8ZAZ3f/Vitryne)
+[**Baixe o protótipo e execute em seu navegador**](https://drive.google.com/file/d/18vCB8ZVGez_6RWEEpxrDNnAq6Gj8Fkkc/view?usp=drive_link)
 
 ---
 
