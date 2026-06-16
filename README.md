@@ -76,9 +76,9 @@ Este repositório centraliza todos os artefatos produzidos ao longo do ciclo de 
 | Artefato | Status |
 |---|---|
 | Diagrama de Casos de Uso (30 UCs) | ✅ Concluído |
-| Diagrama de Sequência — por caso de uso | 🔄 Em andamento |
-| Diagrama de Classes de Entidade | 🔄 Em andamento |
-| Diagrama Entidade-Relacionamento (DER) | 🔄 Em andamento |
+| Diagrama de Sequência — por caso de uso | ✅ Em andamento |
+| Diagrama de Classes de Entidade | ✅ Em andamento |
+| Diagrama Entidade-Relacionamento (DER) | ✅ Em andamento |
 | Diagrama de Componentes / Arquitetura | ⬜ Previsto |
 | Diagrama de Implantação (Deployment) | ⬜ Previsto |
 | Protótipos — High Fidelity (Figma) | ✅ Concluído |
@@ -87,19 +87,19 @@ Este repositório centraliza todos os artefatos produzidos ao longo do ciclo de 
 
 | Artefato | Status |
 |---|---|
-| Estrutura do backend (Spring Boot) | ⬜ Previsto |
+| Estrutura do backend (Spring Boot) | ✅ Previsto |
 | Estrutura do frontend web (Next.js) | ⬜ Previsto |
-| Estrutura do app mobile (Expo) | 🔄 Em andamento |
-| Integração frontend ↔ backend | ⬜ Previsto |
-| Documentação da API (Swagger/OpenAPI) | ⬜ Previsto |
+| Estrutura do app mobile (Expo) | ✅ Em andamento |
+| Integração frontend ↔ backend | ✅ Previsto |
+| Documentação da API (Swagger/OpenAPI) | ✅ Previsto |
 
 ### Testes
 
 | Artefato | Status |
 |---|---|
-| Plano de Testes | ⬜ Previsto |
-| Testes unitários — backend (JUnit 5) | ⬜ Previsto |
-| Testes de integração (Testcontainers) | ⬜ Previsto |
+| Plano de Testes | ✅ Previsto |
+| Testes unitários — backend (JUnit 5) | 🔄 Previsto |
+| Testes de integração (Testcontainers) | 🔄 Previsto |
 | Testes de componentes — frontend (Jest) | ⬜ Previsto |
 
 ---
