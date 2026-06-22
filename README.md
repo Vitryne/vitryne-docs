@@ -19,6 +19,19 @@ Este repositório centraliza todos os artefatos produzidos ao longo do ciclo de 
 
 ---
 
+## Entrega Acadêmica — 2º Bimestre
+
+Para a entrega, correspondente ao 2º Bimestre da disciplina **"Experiência Profissional: Desenvolvimento de Aplicações"**, do curso de graduação em Engenharia de Software da Universidade Cesumar.
+A equipe optou pelo desenvolvimento do **Caso de Uso 06 (UC06) — Gerenciamento do Carrinho**, detalhado em nosso [Diagrama de Casos de Uso](https://github.com/Vitryne/vitryne-docs/blob/main/Diagramas/Diagrama%20de%20Casos%20de%20Uso%20-%20Vitrynes.pdf).
+
+O UC06 contempla as seguintes operações do consumidor sobre o carrinho de compras:
+
+- Adicionar produtos ao carrinho;
+- Remover produtos do carrinho;
+- Alterar produtos já presentes no carrinho.
+
+---
+
 ## Equipe
 
 | Integrante | Cargo | Áreas |
