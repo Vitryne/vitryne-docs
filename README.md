@@ -29,6 +29,7 @@ Este repositório centraliza todos os artefatos produzidos ao longo do ciclo de 
 | Henrique Pacheco Alves | Membro | Frontend · Backend |
 | Leonardo Xavier | Membro | Mobile · Documentação |
 | João Ehlers | Membro | Backend |
+| Igor Costa | Membro | Backend · Mobile |
 
 ---
 
