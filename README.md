@@ -72,9 +72,3 @@ Documentação sobre a estrutura e organização técnica da plataforma.
 O protótipo de alta fidelidade:
 
 [**Baixe o protótipo e execute em seu navegador**](https://drive.google.com/file/d/18vCB8ZVGez_6RWEEpxrDNnAq6Gj8Fkkc/view?usp=drive_link)
-
-
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
